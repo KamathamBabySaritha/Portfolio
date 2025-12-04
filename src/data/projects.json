@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Project A",
+    "description": "A machine learning-based fake news detection system that classifies news as real or fake using NLP techniques.",
+    "skills": ["React", "Machine Learning", "NLP", "Python"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B",
+    "description": "An image super-resolution model that enhances low-quality images by increasing their resolution and clarity using deep learning.",
+    "skills": ["Python", "Machine Learning", "Deep Learning"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
